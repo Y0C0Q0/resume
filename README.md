@@ -1,4 +1,4 @@
-- Hi,there! I'm Young,
+- Hi, there! I'm Young,
 - I like writing and reading, sometimes I take a walk in the afternoon and collect petals of different shapes,
 - I curreently studying the relationship between PNNs and memory, and how dose exercise affeat social vitality,
 - I am not a robot, welcome to communicate with me!
